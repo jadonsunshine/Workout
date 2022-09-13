@@ -1,0 +1,23 @@
+
+body{background-color: #873542;
+  color: floralwhite;
+font-family: 'Grape Nuts', cursive;
+ font-size:26px;
+  
+}
+
+#tmz{
+  background-color:rebeccapurple ;
+  margin : 0px ;
+
+}
+.button{
+  background-color: mediumvioletred;
+  border-radius: 10px 10px 10px 10px;
+}
+#open{
+  background-color: transparent;
+  padding: 50px;
+  margin: 0 0 10px 0;
+  
+}
